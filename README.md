@@ -1,5 +1,7 @@
 # Ankle-Mobility-Stability-Analysis
 Predictive Analytics for Athletic Performance: Ankle Mobility &amp; Balance Deficits
+<img width="1118" height="575" alt="image" src="https://github.com/user-attachments/assets/c0454633-3c32-48fe-a065-ebef6d18d79b" />
+
 Predictive Analytics in Athletic Biomechanics
 Overview This project explores the critical relationship between ankle dorsiflexion and dynamic postural stability in athletes. Using a dataset of 26 subjects, I conducted a comparative analysis to determine how limited joint mobility impacts balance performance under challenging conditions (stable vs. foam surfaces).
 The Challenge Ankle mobility is often overlooked as a primary factor in injury prevention. The goal was to quantify the "stability cost" that inflexible athletes pay when their environment becomes unpredictable, such as playing on uneven turf or transitioning between surfaces.
